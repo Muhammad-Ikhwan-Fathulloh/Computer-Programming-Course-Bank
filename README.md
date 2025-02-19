@@ -1,5 +1,22 @@
 # **Silabus: Pemrograman Python untuk Data Science (14 Pertemuan)**
 
+| **Pertemuan** | **Topik**                                | **Subtopik** |
+|--------------|-----------------------------------------|-------------|
+| 1           | Pengenalan Python & Instalasi          | Sejarah Python, Kelebihan, Instalasi Python & Jupyter Notebook, Menjalankan Python (REPL, Script, Notebook) |
+| 2           | Sintaks Dasar & Tipe Data              | Variabel, Aturan Penamaan, Tipe Data (Integer, Float, String, Boolean), Konversi Tipe Data, F-String |
+| 3           | Operasi Dasar & Struktur Kontrol       | Operasi Aritmatika, Perbandingan, Logika, if-else, Looping (for, while), Loop Control (break, continue) |
+| 4           | Struktur Data Python                   | List, Tuple, Dictionary, Set, Operasi Dasar, List Comprehension |
+| 5           | Fungsi & Pemrograman Modular           | Fungsi Built-in, Fungsi Kustom (def), Lambda Function, Map, Filter, Reduce, Exception Handling |
+| 6           | Pandas: Manipulasi Data                | Membaca CSV & Excel (pd.read_csv, pd.read_excel), DataFrame & Series, Indexing, Filtering, Sorting |
+| 7           | Pandas: Transformasi Data              | Grouping (groupby), Pivot Table, Missing Data (fillna, dropna), Data Cleaning |
+| 8           | Matplotlib & Seaborn: Visualisasi Data | Scatter Plot, Line Chart, Histogram, Bar Plot, Heatmap |
+| 9           | NumPy: Perhitungan Numerik             | Array, Indexing, Slicing, Operasi Matematika, Broadcasting, Reshaping |
+| 10          | Statistika Dasar dalam Data Science    | Mean, Median, Modus, Standar Deviasi, Korelasi, Distribusi Normal |
+| 11          | Machine Learning dengan Scikit-Learn   | Konsep Machine Learning, Linear Regression, Classification (KNN, Decision Tree) |
+| 12          | Clustering & Unsupervised Learning     | K-Means, PCA (Principal Component Analysis) |
+| 13          | Mini Project: Analisis Data            | Studi Kasus: Prediksi Harga, Customer Segmentation, atau Analisis Data Lainnya |
+| 14          | Review & Final Project                 | Presentasi Hasil Mini Project, Evaluasi & Feedback |
+
 ## **Pertemuan 1: Pengenalan Python & Instalasi**
 
 ### **1.1 Sejarah dan Kelebihan Python**
